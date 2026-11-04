@@ -9,6 +9,10 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "firebase": "^13.2.0",
+    "jspdf": "^4.2.1",
+    "lucide-react": "^1.68.0",
+    "nanoid": "^6.0.2",
     "next": "16.4.5",
     "react": "19.3.0",
     "react-dom": "19.3.0"
